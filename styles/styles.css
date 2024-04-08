@@ -1,0 +1,44 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background-color: #db6eb1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+#timer {
+    font-size: 400px;
+    margin: 50px 0;
+}
+
+button {
+    width: 400px;
+    height: 300px;
+    font-size: 100px;
+    font-weight: 400;
+    padding: 40px 40px;
+    margin: 0 10px;
+    cursor: pointer;
+    background-color: #a7c0da;
+    color: #463ed9;
+    border: none;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+
+
+    
